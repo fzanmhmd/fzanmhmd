@@ -1,5 +1,11 @@
 ## Hi there 👋
 ![Muhammad Fauzan]()
+![snake](https://github.com/fzanmhmd/fzanmhmd/blob/main/dist/github-contribution-grid-snake.svg)
+
+
+
+
+
 <!--
 **fzanmhmd/fzanmhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
